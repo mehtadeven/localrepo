@@ -1,3 +1,9 @@
 p{
-    color :burlywood
+    color :rgba(249, 60, 60, 0.836);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 2rem;
+    font-size: larger;
+}
+body{
+    background-color: rgb(255, 153, 153);
 }
